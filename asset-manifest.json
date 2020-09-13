@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/team/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/team/static/js/main.54db1c85.chunk.js",
+    "main.js.map": "/team/static/js/main.54db1c85.chunk.js.map",
+    "runtime-main.js": "/team/static/js/runtime-main.62469777.js",
+    "runtime-main.js.map": "/team/static/js/runtime-main.62469777.js.map",
+    "static/js/2.b9f0e8f9.chunk.js": "/team/static/js/2.b9f0e8f9.chunk.js",
+    "static/js/2.b9f0e8f9.chunk.js.map": "/team/static/js/2.b9f0e8f9.chunk.js.map",
+    "index.html": "/team/index.html",
+    "precache-manifest.16ea87a76d2ed206c53077867f9eb0c4.js": "/team/precache-manifest.16ea87a76d2ed206c53077867f9eb0c4.js",
+    "service-worker.js": "/team/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/team/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b9f0e8f9.chunk.js.LICENSE.txt": "/team/static/js/2.b9f0e8f9.chunk.js.LICENSE.txt",
+    "static/media/crocodic-logo.png": "/team/static/media/crocodic-logo.1b943138.png",
+    "static/media/per-component-scheme.png": "/team/static/media/per-component-scheme.067eae30.png",
+    "static/media/project-structure.png": "/team/static/media/project-structure.548f26b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62469777.js",
+    "static/js/2.b9f0e8f9.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.54db1c85.chunk.js"
+  ]
+}
